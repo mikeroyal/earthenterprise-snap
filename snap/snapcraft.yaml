@@ -22,6 +22,7 @@ apps:
       - home
       - network
       - removable-media
+      - opengl
 
 parts:
   earthenterprise:
